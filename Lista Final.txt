@@ -1,0 +1,278 @@
+NRINSCRICAO NOMECANDIDATO                              NOTAFINALP1 ACERTOSP1 NOTAFINALP2 ACERTOSP2 NOTAFINALTOTAL
+10004893    Giovani Gheno Bombardieri                  40          45        46          58        86            
+10002721    Vitor Jurkfitz Moraes                      42          45        43          54        85            
+10003907    Neimar Coelho Rech                         39          41        45          55        84            
+10001634    Lucas Petit de Aragao                      33          36        47          51        80            
+10002563    Guilherme Virgilio Picinin Oliveira Simoes 44          47        36          53        80            
+10002945    Khin Emmanuel Rodrigues Baptista           39          43        40          52        79            
+10002796    Cassiano Delgado Araujo Bruckhoff          44          45        35          46        79            
+10002396    Joao Pedro Perdomo Dassoler                42          45        36          47        78            
+10002495    Rafael Ferreira Dornelles                  37          43        40          52        77            
+10002410    Felipe Souza Marques                       34          42        42          52        76            
+10003464    Matheus Krause                             37          39        39          44        76            
+10000038    Daniel Matos de Castro                     38          44        38          54        76            
+10002057    Marcel Shindy Ichie                        40          45        36          53        76            
+10001949    Johannes Peter Schulte                     42          46        34          52        76            
+10001005    Giovane Alves Fonseca                      37          42        38          52        75            
+10000025    Rafael Bays Weiler                         41          45        34          51        75            
+10005628    Guilherme Marcelino de Oliveira            40          45        33          48        73            
+10001567    Euclides Pinheiro Pereira                  32          39        40          55        72            
+10003034    Marcelo Souza Vasques                      38          44        34          52        72            
+10001120    Thales Cezar Castro                        40          45        32          51        72            
+10002233    Francisco Luiz Perdigao Neto               41          44        31          42        72            
+10001024    Pedro Andre Winderl de Carvalho            39          44        32          47        71            
+10002484    Cassiano Translatti Furlani                41          44        30          44        71            
+10000182    Luis Fernando Krause                       28          39        42          56        70            
+10001277    Gustavo Freddo Breunig                     30          40        40          55        70            
+10001638    Mayko Born Machado                         36          42        34          38        70            
+10002679    Lucka Praisler de Souza                    36          41        34          42        70            
+10001017    Bruna da Silva                             37          39        33          43        70            
+10002100    Gabriel Jung do Amaral                     42          46        28          45        70            
+10001186    Regis Drunn Pereira                        30          37        39          53        69            
+10003192    Guinther de Bitencourt Pauli               31          37        38          51        69            
+10002769    Caroline Scherer                           32          41        37          46        69            
+10000441    Ricardo Villavicencio Neto                 33          41        36          52        69            
+10001263    Augusto Simon                              36          42        33          42        69            
+10002626    Ricardo Lemos de Souza                     40          42        29          40        69            
+10002370    Marcos Praisler de Souza                   40          43        29          41        69            
+10001498    Ellen David Chepp                          42          46        27          39        69            
+10000652    Vinicius Cesar Martins                     25          34        43          54        68            
+10002136    Fabio Tavares Oliveira                     26          32        42          52        68            
+10003575    Alessandro Avelino Braga                   32          36        36          43        68            
+10001123    Thiago de Oliveira Cassel                  33          35        35          43        68            
+10003220    Lucas Romagnoli                            33          41        35          47        68            
+10004746    Pablo Martins da Silva                     34          40        34          46        68            
+10002750    Gerson Eduardo Garcia Lodi                 38          41        30          35        68            
+10001332    Caio Cristhyan dos Santos Carvalho Silva   38          44        30          50        68            
+10004847    Christian Ruppenthal de Lima               40          45        28          36        68            
+10004039    Thayner Gomes de Bona                      41          44        27          45        68            
+10002822    Felipe Pastore Bernardi                    42          46        26          48        68            
+10000671    Artur Tres do Amaral                       37          40        30          42        67            
+10001050    Lars Leonardo Sanhudo de Souza             37          41        30          43        67            
+10002481    Alisson Piucco Nunes                       26          31        40          48        66            
+10001574    Elia Melfior                               32          33        34          41        66            
+10001845    Thales Fonseca Vinhaes                     35          38        31          41        66            
+10000616    Vitor Moura Ivo                            36          39        30          39        66            
+10003112    Julia Stopassola e Moura                   36          43        30          50        66            
+10002182    Breno Goncalves Bragatti Neves             37          42        29          45        66            
+10000639    Augusto Loose Bellinaso                    29          39        36          53        65            
+10003607    Guilherme Tomazi Klein                     37          41        28          42        65            
+10001933    Fernanda de Oliveira                       38          43        27          47        65            
+10005171    Marius Franciscus Miri Fontes              43          44        22          39        65            
+10001284    Guilherme Sabino Rozante Rocha             32          36        32          42        64            
+10000868    Marcelo Kubiaki dos Santos                 32          41        32          51        64            
+10004608    Alberto dos Santos Carvalho Junior         38          44        26          48        64            
+10005496    Antonio Paulo Serpa Antunes                39          41        25          36        64            
+10002163    Jheffrey Thulyo dos Santos                 40          45        24          47        64            
+10000375    Guilherme Queiros Scharlau                 30          39        33          51        63            
+10001040    Leonardo Welter Dias Silva                 33          35        30          36        63            
+10003780    Matheus Cardozo Kummel                     33          40        30          46        63            
+10003202    Bruna Gaspodini Tibola                     38          44        25          44        63            
+10004078    Fernando Schneider da Cunha                26          38        36          53        62            
+10001671    Vanderlei Klug da Silva                    27          31        35          41        62            
+10005362    Cristiane Livi Meyrer                      27          38        35          51        62            
+10001276    Jeison Leandro Ruckert                     30          40        32          50        62            
+10003002    Lucas Puziski                              30          40        32          51        62            
+10000737    Bruna dos Santos                           31          40        31          47        62            
+10002787    Augusto Tomazi                             32          38        30          39        62            
+10000142    Andre Felipe da Silva Antunes              32          41        30          50        62            
+10005531    Lucas Krolow                               33          38        29          45        62            
+10004251    Guilherme Heck                             34          40        28          41        62            
+10001155    Bruno Ricardo Machado                      36          41        26          40        62            
+10004204    Bruno Leonardo Athaydes                    36          43        26          48        62            
+10003573    Felipe Furtado Lorenci                     37          38        25          30        62            
+10003815    Wagner Fernandes de Azevedo                39          42        23          33        62            
+10001820    Leandro Carvalho                           27          29        34          40        61            
+10003142    Clarissa Farencena Arruda                  28          36        33          45        61            
+10002983    Carlos Ricardo Schwarz Junior              29          33        32          43        61            
+10005029    Cezar Castro Rosa                          30          38        31          47        61            
+10002556    Cassia Ferreira Guimaraes                  34          37        27          37        61            
+10003223    Tito Euclides Schmidt de Aguiar            37          38        24          30        61            
+10003966    Lucas Werner                               37          43        24          47        61            
+10000561    Jonnathan Riquelmo Lopes Frescura          26          38        34          52        60            
+10003122    Gustavo Diogenes Zimmer Sbardelotto        27          32        33          36        60            
+10002427    Paulo Roberto Griesang Esperanca           30          40        30          50        60            
+10001955    Vinicius Silva Conedera                    31          36        29          39        60            
+10001453    Diego Hernandes Figueiredo Gularte         31          34        29          41        60            
+10002019    Allef Kristian Tavares Rocha               32          41        28          49        60            
+10004254    Jessica Daltrozo Barbosa                   32          41        28          49        60            
+10001406    Lucas Henrique Goncalves Wodtke            35          37        25          39        60            
+10002357    Marcio Jose de Avila Gomes                 35          38        25          42        60            
+10001106    Tatiane Dobrzanski                         35          39        25          42        60            
+10002492    Daniel Montenegro                          36          40        24          41        60            
+10003776    Filipe Erni de Moraes                      36          42        24          41        60            
+10002668    Anibal Luis Nascimento de Souza            36          43        24          47        60            
+10001114    Bruno Giovenardi Esteve                    37          39        23          34        60            
+10004084    Marcos Vinicius Werner                     30          37        29          39        59            
+10005087    Viktor Monteiro Finger                     30          34        29          44        59            
+10000484    Gabriela Becker                            31          38        28          48        59            
+10000785    Victor Johan Kappel                        32          37        27          40        59            
+10002103    Suu Kirinus Nogueira                       32          38        27          43        59            
+10005212    Loraine Marques Pivatto                    33          37        26          36        59            
+10001025    Winder Hipolito Dias Junior                33          35        26          41        59            
+10003820    Alexandre Cioccari Rosso                   34          37        25          33        59            
+10005354    Samir Alcantara Belfort Santos             34          40        25          44        59            
+10002232    Lucas Dallo Ruzza                          38          41        21          34        59            
+10005485    Rafael Allegretti Machado                  24          30        34          44        58            
+10004575    Amanda Monteiro Galvao                     24          35        34          51        58            
+10003217    Lucas Adams dos Santos                     26          38        32          51        58            
+10001641    Jonatas Micael Silva Peixoto               28          31        30          43        58            
+10002692    Felipe Antunes Pereira Batista             28          35        30          45        58            
+10001172    Jonas Tieppo da Rocha                      29          34        29          38        58            
+10003385    Anderson Alves da Silva                    30          36        28          41        58            
+10000975    Matheus Gomes Reis Pinto                   30          40        28          49        58            
+10002282    Ronaldo Oliveira da Silva                  30          40        28          49        58            
+10002967    Khalil Joseph El Asmar                     32          41        26          48        58            
+10000653    Vagner Saller Nornberg                     34          42        24          47        58            
+10002458    William Avila Hellwig                      34          42        24          47        58            
+10002144    Gustavo Teixeira dos Santos                35          41        23          37        58            
+10000495    Bernardo Danieli de Oliveira               36          39        22          40        58            
+10001257    Louise Job Bonuma                          36          43        22          46        58            
+10001315    Lucas Frota Vilas Boas Oliveira            19          31        38          50        57            
+10000589    Mateus Henrique Ittner                     27          35        30          39        57            
+10004370    Vilquer Fagundes de Oliveira               29          36        28          45        57            
+10003143    Andrio de Barcelos Ortega                  30          34        27          46        57            
+10001544    Henrique Neitzel Saenger                   34          34        23          41        57            
+10001448    Everton de Araujo Medeiros                 22          28        34          39        56            
+10000104    Mauricio Dias Balhejos                     26          38        30          50        56            
+10001344    Eduardo Menges Mattje                      28          39        28          49        56            
+10001737    Carlos Alexandre da Silva                  30          30        26          34        56            
+10002364    Patrick Burke Garcia                       30          38        26          43        56            
+10001146    Claudia Strohmayer de Moura                32          33        24          30        56            
+10003432    Jose Augusto Sottili Reis                  34          39        22          46        56            
+10002917    Lucas Petry Werlang                        34          42        22          46        56            
+10005157    Everton Luiz de Resende Lucas              22          35        33          49        55            
+10002465    Jefferson Rodrigo Stoffel                  26          34        29          43        55            
+10003285    Leonardo Eliseu Porto Ferreira             26          36        29          45        55            
+10002934    Matheus Henrique Rocha Dias                26          37        29          46        55            
+10002223    Mormon Lima dos Santos                     32          34        23          28        55            
+10001308    Aline de Souza Gandon                      34          40        21          35        55            
+10002712    Ernani Alban                               22          36        32          51        54            
+10004667    Giovani Berto Vian                         22          36        32          51        54            
+10000091    Rodrigo Rocha Niederauer                   23          35        31          47        54            
+10001223    Marcelo Barbosa Soares                     24          37        30          50        54            
+10002842    Victor Moreira Correa                      24          37        30          50        54            
+10003005    Lucas Eliezer Muller Pereira               26          34        28          43        54            
+10001686    Aron Souza Chula                           27          30        27          37        54            
+10000175    Guilherme Reschke                          27          38        27          48        54            
+10002050    Murilo da Rosa Scholl                      29          33        25          32        54            
+10005261    Andre Luiz dos Santos Figueiredo Junior    29          34        25          39        54            
+10002925    Bruno Dias Carvalho                        29          38        25          44        54            
+10003090    Bruna Vuicik Mocelin                       30          30        24          32        54            
+10002905    Guilherme da Silva Moreira                 30          40        24          47        54            
+10005242    Gustavo Oliveira de Avila                  30          40        24          47        54            
+10001505    Felipe Bittencourt de Moura                32          37        22          33        54            
+10003123    Leonardo Krause Kempf                      33          40        21          39        54            
+10001353    Eduardo Flores do Amaral                   33          36        21          42        54            
+10001501    Leandro Azevedo Martins                    14          26        39          48        53            
+10003065    William Weber Berrutti                     21          30        32          45        53            
+10000906    Edson da Silva                             24          26        29          33        53            
+10003973    Priscila Debom Fassel                      27          37        26          42        53            
+10003759    Kaue Christmann Campos                     28          33        25          33        53            
+10002249    Dariane Ramos Abich                        28          34        25          38        53            
+10004855    Joao Pedro de Almeida Monteiro             30          38        23          41        53            
+10003105    Leandro Garcia Machado                     30          40        23          44        53            
+10002910    Paulo Caue Kruger Costa                    32          39        21          38        53            
+10001157    Rafael Cavallin Oliveira                   18          34        34          52        52            
+10003554    Matheus Carvalho Lousada                   20          32        32          44        52            
+10000478    Edson Roberto Duarte Weren                 26          30        26          35        52            
+10004142    Alan Douglas Conrad Magano                 26          38        26          48        52            
+10002926    Willian Pagini                             27          30        25          40        52            
+10004022    Guilherme Dartora Carboni                  28          39        24          30        52            
+10000049    Arnildo Paulo Andres                       28          34        24          40        52            
+10005376    Edson Castilhos Urrutia                    28          39        24          47        52            
+10002879    Andrielly Rodrigues de Oliveira            29          39        23          40        52            
+10003842    Ricardo Jose Caldas Herbert                30          37        22          40        52            
+10001298    Joao Antonio Souza de Castro               30          40        22          46        52            
+10003278    Marcos Ben Hur Dorneles da Silva           30          40        22          46        52            
+10000823    Leonardo Brandao Seivald                   18          30        33          46        51            
+10001534    Alexandre Paulo dos Santos                 23          32        28          39        51            
+10002628    Luiz Felipe Lehmen Lersch                  24          32        27          36        51            
+10002727    Lucas Guasselli de Moraes                  25          37        26          41        51            
+10004070    Adler Jonas Gross                          27          30        24          29        51            
+10001470    Lourenco Job Bonuma                        28          30        23          33        51            
+10002366    Lucas da Rosa Galhardo                     29          34        22          39        51            
+10002381    Gabriel Flores Zamora                      30          34        21          29        51            
+10004899    Daniel Faganello de Souza                  26          38        24          47        50            
+10003343    Gustavo Koefender                          26          38        24          47        50            
+10002451    Tiago Schnornberger                        26          38        24          47        50            
+10003500    Osvaldo Marcelo Fonseca de Souza           27          30        23          32        50            
+10001609    Leonardo Peripolli Pereira                 28          33        22          30        50            
+10004805    Greici Espindola Ferreira                  28          39        22          46        50            
+10004541    Hamilton Gabriel Azevedo de Paula          28          39        22          46        50            
+10005558    Lelio dos Santos Falcao                    21          25        28          38        49            
+10003819    Dara dos Santos Lima                       22          27        27          33        49            
+10002171    Lucas Oliveira dos Santos                  23          29        26          29        49            
+10001801    Efrain Becker Bartz                        24          35        25          36        49            
+10002660    Italo Dombrowski Machado                   28          36        21          33        49            
+10002861    Paulo Vinicius Pacheco Santos              16          33        32          51        48            
+10004546    Maicon Alisson Alves Dias                  19          34        29          48        48            
+10000609    Alex Kubiaki dos Santos                    22          32        26          48        48            
+10000628    Elias Neves                                24          37        24          47        48            
+10002023    Gustavo Luiz Persich do Carmo              24          37        24          47        48            
+10004874    Vinicius Azevedo dos Santos                24          37        24          47        48            
+10001807    Fernando Baltar Veronez                    26          30        22          32        48            
+10000796    Lucas Freitas Cordeiro                     26          32        22          32        48            
+10002695    Rafael Andrade Anselmo                     26          38        22          46        48            
+10001440    Mario Francisco Domingues Avila Junior     27          32        21          32        48            
+10002151    Eric Laurino Gondran                       27          37        21          42        48            
+10004383    Guilherme Franca Garcia                    16          29        31          47        47            
+10003557    Everton Mengotti Fernandes                 23          26        24          28        47            
+10001338    Douglas Ristow                             23          33        24          45        47            
+10001910    Mario Vinicius Cunha de Oliveira           26          35        21          38        47            
+10002982    Leandro Vinicius da Rosa Iensen            14          32        32          51        46            
+10001517    Gabriel Camargo Leiria                     18          32        28          43        46            
+10002704    Joao Pedro de Bittencourt Cabral           20          35        26          48        46            
+10003640    Willian Silva Machado                      20          35        26          48        46            
+10005120    Keila Viero Deponti                        21          32        25          39        46            
+10001556    William Matheus Rosa                       22          36        24          47        46            
+10003746    Bernardo Cavaleto                          23          26        23          30        46            
+10001883    Ramiro Uarthe Araujo                       23          30        23          30        46            
+10003283    Guilherme Zaleski de Freitas               23          30        23          38        46            
+10000165    Eduardo Santos da Silva                    25          34        21          36        46            
+10004004    Douglas Fanton                             20          27        25          33        45            
+10001171    Luis Felipe Pires Monte Maior              21          26        24          32        45            
+10002645    Dante Flesch Pereira                       22          34        23          42        45            
+10002633    Elandro Wozeak Caniela                     23          31        22          41        45            
+10005002    Bruna Montelli Lacerda                     24          37        21          41        45            
+10001058    Gustavo Rachinhas Peres                    12          31        32          51        44            
+10002511    Guilherme Danrley Silva Hanauer            17          25        27          41        44            
+10003546    Isabella Sakis                             23          30        21          36        44            
+10000480    Caroline Guterres Silva                    16          32        27          48        43            
+10005042    Matheus Tomaschewski                       19          32        24          42        43            
+10003510    Adilson de Quadros Coutinho                21          24        22          29        43            
+10002248    Walace Andre dos Santos Lopes              21          26        22          36        43            
+10003440    Juliana Machado Liska                      14          32        28          49        42            
+10001627    Adriel Sandre Santos Nobre                 18          34        24          47        42            
+10001299    Leonardo Chaves dos Santos                 18          34        24          47        42            
+10004900    Ariel Luis Henz                            19          32        23          39        42            
+10005567    Bernardo Bueno Barbosa                     20          35        22          46        42            
+10002067    Matheus de Oliveira Demarchi               20          35        22          46        42            
+10000365    Filipe Renato Vigatto                      13          20        28          39        41            
+10002993    Cristian da Silva dos Santos               16          31        25          45        41            
+10001429    Rafael Duarte Teixeira                     17          25        24          33        41            
+10001038    Carlos Eduardo Santiago da Conceicao       14          32        26          48        40            
+10005612    Jonathas Magalhaes                         14          32        26          48        40            
+10001061    Leonardo Migot                             14          32        26          48        40            
+10002226    Leonardo Sabadini Piva                     15          20        25          29        40            
+10001542    Ralph Pacheco Rebello                      16          30        24          42        40            
+10003327    Mairon de Araujo Belchior                  18          26        22          36        40            
+10001125    Andrey de Souza Moreira                    18          34        22          46        40            
+10000808    Rodrigo Maciel de Almeida                  18          34        22          46        40            
+10003848    Charles Carvalho                           17          24        22          37        39            
+10002774    Vitor Paixao da Silva                      18          29        21          37        39            
+10005267    Heitor Boeira dos Reis Filho               10          30        28          49        38            
+10000211    Adriano Prado Cavalheiro                   15          19        23          34        38            
+10004995    Anderson Eleodoro Oliveira Cherubim        16          31        22          44        38            
+10003127    Mateus Frizon                              13          24        24          35        37            
+10001232    Priscila dos Santos Ferreira Lacerda       15          29        22          42        37            
+10001226    Eduardo Bacelar Jacobi                     16          31        21          34        37            
+10003300    Iago Silva da Trindade                     16          33        21          45        37            
+10002036    Fernando Farias de Werk                    10          30        26          48        36            
+10002903    Roger Dias Camargo                         10          30        26          48        36            
+10003069    Ricardo Zanotto Zaniol                     12          31        24          47        36            
+10002488    Rodrigo Nunes Wessner                      12          31        24          47        36            
+
+===== ÁREA 3: DESENVOLVIMENTO SISTEMAS ===== 
+
+ CANDIDATOS CLASSIFICADOS:  273
